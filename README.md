@@ -8,6 +8,10 @@
   An Express REST API with CORS and a health check, ready to deploy on Light Cloud.
 </p>
 
+<p align="center">
+  <a href="https://console.light-cloud.com/new?repo=https://github.com/light-cloud-com/starter-express"><img src="https://light-cloud.com/button.svg" alt="Deploy to Light Cloud" /></a>
+</p>
+
 ---
 
 ## Features
